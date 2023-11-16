@@ -1,0 +1,36 @@
+.container{
+    height: 100%;
+}
+header{
+    background-color: #00aeff;
+    width: l00%;
+    height: 50px;
+}
+.h5{
+    margin-top: 10px;
+}
+.section{
+    width: 100%;
+    height: 377px;
+    background-image: url('../Assets/img/wallpaper.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.banner{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    
+}
+.text-main{
+    display: flex;
+    align-items: center;
+    color:#fff ;
+    position: relative  ;
+}
+.col{
+    background-color: #00aeff;
+}
+
