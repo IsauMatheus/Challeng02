@@ -16,16 +16,12 @@ header{
     width: 100%;
     height: 370px;
     position: relative;
-}
-.section::before{
-    content: "";
-    position: absolute;
-    inset: 0;
     background-image: url(../Assets/img/Design\ sem\ nome\ \(4\).png);
     background-size: cover;
     background-position: center;
     z-index: -1;
 }
+
 .text-main{
     display: flex;
     flex-direction: column;
