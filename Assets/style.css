@@ -43,15 +43,26 @@ header{
     font-size:30px ;
 }
 .row{
-    height: 302px;
-    margin-top: 60px;
-}
-.col-md-2{
-    background-color: #EBE9EA;
-    height: 100%;
-    margin: 10px;
-}
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    height: 700px;
 
+}
+.first-coloum, .three-coloum{
+    background-color: #EBE9EA;
+    height: 300px;
+    margin: 20px;
+    margin-top: 20px;
+}
+.cont-2{
+    width: 100%;
+    height: 50px;
+    background-color:#00AEFF;
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+}
 
 
 
